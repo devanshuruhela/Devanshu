@@ -4,15 +4,18 @@ const Devanshu = {
     code: ["Javascript", "Python", "C++", "Dart", "Java"],
     askMeAbout: ["Web dev", "Tech", "App dev", "Photography"],
     technologies: {
+        frontEnd: {
+            front: ["HTML","CSS","React","Redux"],
+        },
         backEnd: {
-            js: ["Node", "Express",],
+            js: ["Node", "Express"],
         },
         mobileApp: {
             Hybrid: ["Flutter", "React Native"]
         },
         devOps: ["AWS", "Docker🐳"],
         databases: ["mongo", "MySql", "PostgreSQL"],
-        misc: ["Firebase","Bootstrap","Tachyons","Lodash"]
+        misc: ["Firebase","Wordpress","Tachyons","Lodash"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "App Development",
