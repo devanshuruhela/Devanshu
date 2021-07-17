@@ -1,5 +1,5 @@
 Hey👋 , I am Devanshu!
-### A little more about 👇
+### A little more about me 👇
 ```javascript
 const Devanshu = {
     pronouns: "He" | "Him",
