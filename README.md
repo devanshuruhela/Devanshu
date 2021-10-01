@@ -24,4 +24,4 @@ const Devanshu = {
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=devanshuruhela&theme=react&hide_border=true)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=devanshuruhela&theme=react&hide_border=true)](https://git.io/streak-stats) -->
