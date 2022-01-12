@@ -7,7 +7,7 @@ const Devanshu = {
     askMeAbout: ["Web dev", "Tech", "App dev", "Photography"],
     technologies: {
         frontEnd: {
-            front: ["HTML","CSS","React","Redux"],
+            front: ["HTML","CSS","SCSS","React","Redux"],
         },
         backEnd: {
             js: ["Node", "Express"],
@@ -17,7 +17,7 @@ const Devanshu = {
         },
         devOps: ["AWS", "Docker🐳"],
         databases: ["mongo", "MySql", "PostgreSQL"],
-        misc: ["Firebase","Wordpress","Tachyons","Lodash"]
+        misc: ["Firebase","Wordpress","Tachyons","Lodash","Styled-Component"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "App Development",
