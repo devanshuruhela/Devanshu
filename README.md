@@ -4,7 +4,7 @@ Hey👋 , I am Devanshu!
 const Devanshu = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Python", "C++", "Dart", "Java"],
-    askMeAbout: ["Web dev", "Tech", "App dev", "Photography"],
+    askMeAbout: ["Web dev", "Tech", "App dev", "Photography", "Fitness"],
     technologies: {
         frontEnd: {
             front: ["HTML","CSS","SCSS","React","Redux"],
