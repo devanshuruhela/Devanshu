@@ -20,7 +20,7 @@ const Devanshu = {
         misc: ["Firebase","Wordpress","Tachyons","Lodash","Styled-Component"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "App Development",
+    currentFocus: "Problem solving",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
