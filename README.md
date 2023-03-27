@@ -3,7 +3,7 @@ Hey👋 , I am Devanshu!
 ```javascript
 const Devanshu = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "C++", "Dart", "Java"],
+    code: ["JavaScript", "TypeScript", "Python", "C++", "Dart", "Java"],
     askMeAbout: ["Web dev", "Tech", "App dev", "Photography", "Fitness"],
     technologies: {
         frontEnd: {
@@ -17,7 +17,7 @@ const Devanshu = {
         },
         devOps: ["AWS", "Docker🐳"],
         databases: ["mongo", "MySql", "PostgreSQL"],
-        misc: ["Firebase","Wordpress","Tachyons","Lodash","Styled-Component"]
+        misc: ["Firebase","Wordpress","Tachyons","Lodash","Styled-Component","Tailwind CSS"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "Problem solving",
