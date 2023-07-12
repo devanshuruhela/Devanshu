@@ -7,7 +7,7 @@ const Devanshu = {
     askMeAbout: ["Web dev", "Tech", "App dev", "Photography", "Fitness"],
     technologies: {
         frontEnd: {
-            front: ["HTML","CSS","SCSS","React","Redux"],
+            front: ["HTML","CSS","SCSS","React", "Next.js", "Redux"],
         },
         backEnd: {
             js: ["Node", "Express"],
