@@ -7,7 +7,7 @@ const Devanshu = {
     askMeAbout: ["Web dev", "Tech", "App dev", "Photography", "Fitness"],
     technologies: {
         frontEnd: {
-            front: ["HTML","CSS","SCSS","React", "Next.js", "Redux"],
+            front: ["HTML", "CSS", "SCSS", "React", "Vite", "Next.js", "Redux"],
         },
         backEnd: {
             js: ["Node", "Express"],
@@ -15,12 +15,11 @@ const Devanshu = {
         mobileApp: {
             Hybrid: ["Flutter", "React Native"]
         },
-        devOps: ["AWS", "Docker🐳"],
         databases: ["mongo", "MySql", "PostgreSQL"],
-        misc: ["Firebase","Wordpress","Tachyons","Lodash","Styled-Component","Tailwind CSS"]
+        misc: ["Firebase", "Wordpress", "Tachyons", "Lodash", "Styled-Component", "Tailwind CSS"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Problem solving",
+    currentFocus: "Development",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
